@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zkrhm.github.io/posts/http-test-type-less/</loc>
+    <lastmod>2018-09-04T06:42:36+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zkrhm.github.io/posts/hello-world/</loc>
     <lastmod>2018-09-04T04:24:36+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://zkrhm.github.io/</loc>
-    <lastmod>2018-09-04T04:24:36+07:00</lastmod>
+    <lastmod>2018-09-04T06:42:36+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,7 +25,7 @@
   
   <url>
     <loc>https://zkrhm.github.io/posts/</loc>
-    <lastmod>2018-09-04T04:24:36+07:00</lastmod>
+    <lastmod>2018-09-04T06:42:36+07:00</lastmod>
     <priority>0</priority>
   </url>
   

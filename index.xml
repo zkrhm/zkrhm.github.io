@@ -6,10 +6,20 @@
     <description>Recent content on @zkrhm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Sep 2018 04:24:36 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 04 Sep 2018 06:42:36 +0700</lastBuildDate>
     
 	<atom:link href="https://zkrhm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Golang Http Test ~ Let&#39;s Type Less</title>
+      <link>https://zkrhm.github.io/posts/http-test-type-less/</link>
+      <pubDate>Tue, 04 Sep 2018 06:42:36 +0700</pubDate>
+      
+      <guid>https://zkrhm.github.io/posts/http-test-type-less/</guid>
+      <description>&amp;ndash; Some says, Lazy Programmer makes Better Programmers &amp;ndash; some days ago I worked on testing http on golang. Golang has superb foundation on Http Testing with It&amp;rsquo;s ResponseRecorder component. To write the tests I used Ginkgo and Gomega two libraries that makes writing BDD-styled test a breeze. But then when some test cases already written I notice something. I do repetitive task, now it&amp;rsquo;s become so boring.
+To code is to liberate, and doing thing repetitively means we get shackled into boringness.</description>
+    </item>
     
     <item>
       <title>Hello World...!</title>
